@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  [![NPM](https://nodei.co/npm/<package>.png?compact=true)](https://npmjs.org/package/<package>)
+  [![NPM](https://nodei.co/npm/ara-boilerplate.png?compact=true)](https://npmjs.org/package/ara-boilerplate)
 </p>
 <!-- Status -->
 
