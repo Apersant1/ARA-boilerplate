@@ -16,7 +16,6 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Apersant1/ARA-boilerplate?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/Apersant1/ARA-boilerplate?color=56BEB8">
-  ![npm](https://nodei.co/npm/ara-boilerplate.png)](https://npmjs.org/package/ara-boilerplate)
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
 
@@ -25,6 +24,9 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
 </p>
 
+<p align="center">
+  [![NPM](https://nodei.co/npm/<package>.png?compact=true)](https://npmjs.org/package/<package>)
+</p>
 <!-- Status -->
 
 <!-- <h4 align="center">
@@ -46,9 +48,11 @@
 <br>
 
 ## :dart: About
+
 ![](.github/workflows/Анимация.gif)
 
 This is a boilerplate for quickly deploying react-applications.
+
 ## :sparkles: Features
 
 :heavy_check_mark: simplicity\
@@ -58,6 +62,7 @@ This is a boilerplate for quickly deploying react-applications.
 ## :rocket: Technologies
 
 The following tools were used in this project:
+
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [webpack](https://webpack.js.org/)
