@@ -5,6 +5,13 @@ const App = () => {
     return (
         <>
         <Logo/>
+        ARA is made for
+        <div className="dropping-texts">
+          <div>Developers</div>
+          <div>Designers</div>
+          <div>Coders</div>
+          <div>EVERYONE!</div>
+        </div>
         </>
     )
 }

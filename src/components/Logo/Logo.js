@@ -1,11 +1,12 @@
 import React from "react";
+import "./Logo.css";
 const Logo = () => {
   return (
-    <>
-      {""}
-      <h1>ARA</h1>
-      <p style={{fontFamily:"Magneto"}}>Will a simple</p>
-    </>
+    <div className="container">
+      <span className="react-logo">
+        <span className="nucleo"></span>
+      </span>
+    </div>
   );
 };
 
