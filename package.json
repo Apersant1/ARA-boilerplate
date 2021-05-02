@@ -22,7 +22,4 @@
     "start": "webpack serve --mode development --open --hot",
     "build": "webpack --mode production"
   },
-  "bin": {
-    "minimal-reactjs-boilerplate": "./bin/start.js"
-  }
 }
