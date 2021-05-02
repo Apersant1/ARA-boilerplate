@@ -2,7 +2,6 @@
 	🚧  ARA - Appersant React Boilerplate 🚀 Under construction...  🚧
 </h4>
 
-<hr>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/ara-boilerplate">
