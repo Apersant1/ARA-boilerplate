@@ -26,11 +26,11 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center">
+<h4 align="center">
 	🚧  ARA - Appersant React Boilerplate 🚀 Under construction...  🚧
 </h4>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -47,6 +47,7 @@
 ## :dart: About
 
 This is a boilerplate for quickly deploying react-applications.
+
 ## :sparkles: Features
 
 :heavy_check_mark: simplicity;\
@@ -56,6 +57,7 @@ This is a boilerplate for quickly deploying react-applications.
 ## :rocket: Technologies
 
 The following tools were used in this project:
+
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [webpack](https://webpack.js.org/)
