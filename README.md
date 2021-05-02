@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="React Boilerplate" />
+  <img src="./.github/freecodeformat.svg" alt="React Boilerplate" />
 
 &#xa0;
 
