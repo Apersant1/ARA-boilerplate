@@ -1,29 +1,14 @@
 <div align="center" id="top"> 
-  <img src="./.github/freecodeformat.svg" alt="React Boilerplate" />
+  <img src="./.github/workflows/logo.png" alt="React Boilerplate" />
 
 &#xa0;
 
-  <!-- <a href="https://reactboilerplate.netlify.app">Demo</a> -->
-</div>
-
-<h1 align="center">ARA - Appersant React Boilerplate</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Apersant1/ARA-boilerplate?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Apersant1/ARA-boilerplate?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Apersant1/ARA-boilerplate?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/Apersant1/ARA-boilerplate?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
+  <a href="https://www.npmjs.com/package/ara-boilerplate">
+    <img alt="npm" src="https://nodei.co/npm/ara-boilerplate.png?compact=true">
+  </a>
 </p>
-
 <!-- Status -->
 
 <h4 align="center">
@@ -46,13 +31,15 @@
 
 ## :dart: About
 
+![](.github/workflows/Анимация.gif)
+
 This is a boilerplate for quickly deploying react-applications.
 
 ## :sparkles: Features
 
-:heavy_check_mark: simplicity;\
-:heavy_check_mark: Performance;\
-:heavy_check_mark: Flexibility;
+:heavy_check_mark: simplicity\
+:heavy_check_mark: Performance\
+:heavy_check_mark: Flexibility
 
 ## :rocket: Technologies
 
