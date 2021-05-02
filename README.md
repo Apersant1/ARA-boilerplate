@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  [![NPM](https://nodei.co/npm/ara-boilerplate.png?compact=true)](https://npmjs.org/package/ara-boilerplate)
+  <img alt="npm" src="https://nodei.co/npm/ara-boilerplate.png?compact=true">
 </p>
 <!-- Status -->
 
