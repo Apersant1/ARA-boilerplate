@@ -46,13 +46,12 @@
 
 ## :dart: About
 
-Describe your project
-
+This is a boilerplate for quickly deploying react-applications.
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: simplicity;\
+:heavy_check_mark: Performance;\
+:heavy_check_mark: Flexibility;
 
 ## :rocket: Technologies
 
