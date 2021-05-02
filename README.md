@@ -27,7 +27,7 @@
 <!-- Status -->
 
 <!-- <h4 align="center">
-	🚧  ARA- Appersant React Boilerplate 🚀 Under construction...  🚧
+	🚧  ARA - Appersant React Boilerplate 🚀 Under construction...  🚧
 </h4>
 
 <hr> -->
