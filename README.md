@@ -19,11 +19,11 @@
 
   <img alt="License" src="https://img.shields.io/npm/l/ara-boilerplate">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/Apersant1/ARA-boilerplate?color=56BEB8" /> 
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/Apersant1/ARA-boilerplate?color=56BEB8" /> 
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Apersant1/ARA-boilerplate?color=56BEB8" />
 </p>
 
 <p align="center">
