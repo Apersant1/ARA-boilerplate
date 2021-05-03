@@ -53,7 +53,9 @@
 
 ## :dart: About
 
-![](.github/workflows/Анимация.gif)
+<p align="center">
+	![](.github/workflows/Анимация.gif)
+</p>
 
 This is a boilerplate for quickly deploying react-applications.
 
