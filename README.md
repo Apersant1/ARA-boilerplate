@@ -54,7 +54,7 @@
 ## :dart: About
 
 <p align="center">
-	![](.github/workflows/Анимация.gif)
+	<img src=".github/workflows/Анимация.gif">
 </p>
 
 This is a boilerplate for quickly deploying react-applications.
