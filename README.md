@@ -57,7 +57,6 @@
 	<img src=".github/workflows/Анимация.gif">
 </p>
 
-This is a boilerplate for quickly deploying react-applications.
 
 ## :sparkles: Features
 
