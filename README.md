@@ -17,7 +17,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Apersant1/ARA-boilerplate?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Apersant1/ARA-boilerplate?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/npm/l/ara-boilerplate">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Apersant1/ARA-boilerplate?color=56BEB8" /> -->
 
