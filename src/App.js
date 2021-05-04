@@ -1,6 +1,6 @@
 import React from 'react'
-import Logo from './Logo/Logo';
-import  '../../styles/App.css';
+import Logo from './components/Logo/Logo';
+import  '../styles/App.css';
 const App = () => {
     return (
         <>
