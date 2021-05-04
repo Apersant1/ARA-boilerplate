@@ -1,6 +1,6 @@
 {
   "name": "ara-boilerplate",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -22,7 +22,24 @@
     "start": "webpack serve --mode development --open --hot",
     "build": "webpack --mode production"
   },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  },
   "bin": {
-    "ARA-boilerplate" : "./bin/start.js"
-  }
+    "ARA-boilerplate": "bin/start.js"
+  },
+  "description": "<div align=\"center\" id=\"top\"> \r   <img src=\"./.github/workflows/logo.png\" alt=\"React Boilerplate\" />",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apersant1/ARA-boilerplate.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Apersant1/ARA-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Apersant1/ARA-boilerplate#readme"
 }
