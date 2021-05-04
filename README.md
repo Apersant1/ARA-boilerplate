@@ -9,7 +9,6 @@
 <h1 align="center">ARA - Appersant's React Boilerplate</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Apersant1/ARA-boilerplate?color=56BEB8">
 	
   <img alt="Downloads count" src="https://img.shields.io/npm/dw/ara-boilerplate">
 	
