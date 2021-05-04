@@ -9,6 +9,8 @@ const packageJson = require("../package.json");
 const scripts = `"start": "webpack serve --mode development --open --hot",
 "build": "webpack --mode production"`;
 
+const babel = `"babel": ${JSON.stringify(packageJson.babel)}`;
+
 const getDeps = (deps) =>
   Object.entries(deps)
     .map((dep) => `${dep[0]}@${dep[1]}`)
@@ -38,7 +40,8 @@ exec(
         .replace(
           '"test": "echo \\"Error: no test specified\\" && exit 1"',
           scripts
-        );
+        )
+        .replace('"keywords": []', babel);;
       fs.writeFile(packageJSON, data, (err2) => err2 || true);
     });
 
