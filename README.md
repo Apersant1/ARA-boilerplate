@@ -96,6 +96,8 @@ $ yarn start
 
 ## :white_check_mark: If Using npm
 ```bash
+# Download package
+$ npm install -g ara-boilerplate
 # Create project
 $ ara-boilerplate <name-project>
 
