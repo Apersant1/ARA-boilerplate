@@ -94,6 +94,13 @@ $ yarn start
 # The server will initialize in the <http://localhost:8080>
 ```
 
+## :white_check_mark: If Using npm
+```bash
+# Create project
+$ ara-boilerplate <name-project>
+
+```
+
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
