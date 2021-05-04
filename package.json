@@ -21,5 +21,8 @@
   "scripts": {
     "start": "webpack serve --mode development --open --hot",
     "build": "webpack --mode production"
+  },
+  "bin": {
+    "ARA-boilerplate" : "./bin/start.js"
   }
 }
