@@ -29,7 +29,7 @@
     ]
   },
   "bin": {
-    "ARA-boilerplate": "bin/start.js"
+    "ara-boilerplate": "bin/start.js"
   },
   "description": "<div align=\"center\" id=\"top\"> \r   <img src=\"./.github/workflows/logo.png\" alt=\"React Boilerplate\" />",
   "devDependencies": {},
