@@ -23,6 +23,6 @@
     "build": "webpack --mode production"
   },
   "bin": {
-    "minimal-reactjs-boilerplate": "./bin/start.js"
+    "ARA-boilerplate": "./bin/start.js"
   }
 }
