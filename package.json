@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/Apersant1/ARA-boilerplate/issues"
   },
-  "homepage": "https://github.com/Apersant1/ARA-boilerplate#readme"
+  "homepage": "https://github.com/Apersant1/ARA-boilerplate#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Apersant1"
+  }
 }
