@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/workflows/logo.png" alt="React Boilerplate" />
+  <img align="center" src="./.github/workflows/logo.png" alt="React Boilerplate" />
 
 &#xa0;
 
